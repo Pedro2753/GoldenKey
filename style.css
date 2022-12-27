@@ -307,8 +307,8 @@ div.con{
 font-size: 1.5vh;
 background-color: rgba(255, 255, 255, 0);
 text-align: center;
-width: 40vh;
-height: 20vh;
+width: 39vh;
+height: 19vh;
 padding: 10px;
 margin: 15px;
 display: inline-block;
@@ -318,8 +318,8 @@ align-items: center;
 }
 
 img#tumb{stroke-dasharray: ;
-    width: 40vh;
-    height: 20vh;
+    width: 39vh;
+    height: 19vh;
     margin: auto;
  
 display: block;
