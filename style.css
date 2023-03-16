@@ -43,7 +43,9 @@ a:hover{
   color:rgb(255, 196, 0);
 }
 
-
+a#title{
+  font-size: 10vh;
+}
 
 header > h1, nav{
     display:inline-block;
@@ -72,7 +74,7 @@ div.separador{
   margin-left: 120px;
   margin-right: 106px;
   border-radius: 10px;
-  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.425);
   padding-right: 20px;
  
 }
@@ -93,6 +95,8 @@ background-color: black;
 border-radius:10px;
 padding: 10px;
 }
+
+
 
 
 /*---------------------- HOMECON ----------------------*/
